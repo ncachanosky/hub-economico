@@ -1,12 +1,12 @@
 [default]
-name = "Axiom Theme"
+name = "Axiom Theme 1"
 uri = "https://example.com/"
 email = "info@example.com"
 twitter = "example"
 image = "image/author/default.webp"
 
 [axiom]
-name = "Axiom Theme"
+name = "Axiom Theme 2"
 uri = "https://example.com/"
 email = "info@example.com"
 twitter = "example"

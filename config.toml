@@ -54,7 +54,7 @@ disqusShortname = ""
 
 [params.logo]
 inline = true
-path = "image/brand/logo.svg"
+path = "image/brand/logo.png"
 
 [params.image]
 width = "2048"
