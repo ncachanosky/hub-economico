@@ -8,7 +8,7 @@ Este sitio provee un índice variables conómicas de Argentina. Todas las series
 
 ## Información de contacto
 
-[**Nicolás Cachanosky**](https://www.ncachanosky.com)  
+[**Nicolás Cachanosky**](https://www.ncachanosky.com) | ncachano@msudenver.edu  
 Associate Professor of Economics  
 Metropolitan State University of Denver
 
