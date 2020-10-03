@@ -2,6 +2,15 @@
 weight = 1
 +++
 
-# Welcome to Example.com
+# Welcome to **El Hub Económico**
 
-<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Este sitio provee un índice variables conómicas de Argentina. Todas las series incluidas en este sitio son de acceso público y gratuito. **El Hub Económico** no guarda información de terceros, sino que ofrece links directos a las fuentes originales, facilitando el acceso a la información pública e incrementando la visibilidad de las diversas fuentes aquí recopiladas.
+
+## Información de contacto
+
+[**Nicolás Cachanosky**](https://www.ncachanosky.com)  
+Associate Professor of Economics  
+Metropolitan State University of Denver
+
+Senior Fellow  
+American Institute for Economic Research
