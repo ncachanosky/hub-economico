@@ -1,6 +1,6 @@
 baseURL = "https://axiom-example.netlify.app"
 
-title = "Axiom Example"
+title = "El Hub Economico"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -29,15 +29,15 @@ domain = "example.com"
 email = "info@example.com"
 
 [params.social]
-facebook = "https://www.facebook.com/user_or_page"
-github = "https://github.com/user"
-instagram = "https://instagram.com/user"
-linkedin = "https://www.linkedin.com/in/user"
-pinterest = "https://www.pinterest.com/user"
-stackoverflow = "https://stackoverflow.com/users/user"
-twitter = "https://twitter.com/axiomtheme"
-youtube = "https://www.youtube.com/user"
-footer = ["twitter", "github", "instagram"]
+github = "https://github.com/ncachanosky"
+linkedin = "https://www.linkedin.com/in/ncachanosky"
+twitter = "https://twitter.com/n_cachanosky"
+facebook = "https://www.facebook.com/ncachanosky"
+# instagram = "https://instagram.com/user"
+# pinterest = "https://www.pinterest.com/user"
+# stackoverflow = "https://stackoverflow.com/users/user"
+# youtube = "https://www.youtube.com/user"
+footer = ["github", "linkedin", "twitter", "facebook"]
 
 [params.services]
 googleAnalyticsId = "UA-160259978-2"
@@ -126,29 +126,9 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
-url = "/posts/"
-name = "Posts"
+url = "/fuentes_privadas/"
+name = "Fuentes privadas"
 weight = 1
-
-[[menu.foot]]
-url = "/posts/"
-name = "Posts"
-weight = 1
-
-[[menu.foot]]
-url = "/about/"
-name = "About"
-weight = 2
-
-[[menu.foot]]
-url = "/contact/"
-name = "Contact"
-weight = 3
-
-[[menu.foot]]
-url = "/privacy/"
-name = "Privacy"
-weight = 4
 
 [languages]
 [languages."en"]
