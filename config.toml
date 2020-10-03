@@ -107,7 +107,7 @@ suffixes = ["atom"]
 [markup.goldmark]
 [markup.goldmark.extensions]
 definitionList = false
-footnote = true
+footnote = false
 linkify = false
 strikethrough = false
 table = true
@@ -139,8 +139,6 @@ weight = 2
 url = "/graficos/"
 name = "Gráficos"
 weight = 2
-
-
 
 
 [languages]
