@@ -5,7 +5,16 @@ title = "Fuentes oficiales"
 
 # INDEC
 
-## 1. CUENTAS NACIONALES
+## 1. Comercio
+
+1. [Centros de compras](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-36)
+
+2. [Supermercados y autoservicios mayoristas](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-34)
+
+3. [Electrodoméssticos e insumospara el hogar](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-37)
+
+
+## 4. Cuentas nacionales
 
 1. [Agregados macroeconómicos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
     * PBI
