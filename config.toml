@@ -53,7 +53,7 @@ facebookPixel = ""
 disqusShortname = ""
 
 [params.logo]
-inline = true
+inline = false
 path = "image/brand/logo.png"
 
 [params.image]
