@@ -126,9 +126,22 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
+url = "/fuentes_oficiales/"
+name = "Fuentes oficiales"
+weight = 1
+
+[[menu.main]]
 url = "/fuentes_privadas/"
 name = "Fuentes privadas"
-weight = 1
+weight = 2
+
+[[menu.main]]
+url = "/graficos/"
+name = "Gráficos"
+weight = 2
+
+
+
 
 [languages]
 [languages."en"]
