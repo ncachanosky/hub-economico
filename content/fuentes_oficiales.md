@@ -7,7 +7,7 @@ title = "Fuentes oficiales"
 
 ## 1. Economía
 
-### 1. [Comercio](https://www.indec.gob.ar/indec/web/Nivel3-Tema-3-1)
+#### 1. [Comercio](https://www.indec.gob.ar/indec/web/Nivel3-Tema-3-1)
 * [Centros de compras](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-36)
 * [Supermercados y autoservicios mayoristas](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-34)
 * [Electrodoméssticos e insumospara el hogar](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-1-37)
@@ -119,3 +119,6 @@ title = "Fuentes oficiales"
 ### 15. [Turismo](https://www.indec.gob.ar/indec/web/Nivel3-Tema-3-13)
 * [Ocupación hotelera](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-56)
 * [Turismo internacional](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55)
+
+
+## 2. Sociedad
