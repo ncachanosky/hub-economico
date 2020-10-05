@@ -212,10 +212,12 @@ title = "Fuentes oficiales"
 
 ---
 # INDEC: Población
-* [Censos](https://www.indec.gob.ar/indec/web/Nivel3-Tema-2-41)
-    * [Censo 1991](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-136)
-    * [Censo 2001](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-134)
-    * [Censo 2010](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-135)
-    * [Indicadores demográficos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-158)
+
+## 1. [Censos](https://www.indec.gob.ar/indec/web/Nivel3-Tema-2-41)
+
+* [Censo 1991](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-136)
+* [Censo 2001](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-134)
+* [Censo 2010](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-135)
+* [Indicadores demográficos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-158)
 
 
