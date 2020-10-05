@@ -221,3 +221,35 @@ title = "Fuentes oficiales"
 * [Indicadores demográficos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-158)
 
 
+---
+# Banco Central de la República Argentina
+
+## 1. Publicaciones
+* Política monetaria
+    * [Informe de política monetaria](http://bcra.gov.ar/PublicacionesEstadisticas/Informe_politica_monetaria.asp)
+    * [Informe monetario mensual](http://bcra.gov.ar/PublicacionesEstadisticas/Informe_monetario_mensual.asp)
+    * [Informe monetatrio diario](http://bcra.gov.ar/PublicacionesEstadisticas/Informe_monetario_diario.asp)
+
+* Estabilidad financiera
+    * [Informe de estabilidad financiera](http://bcra.gov.ar/PublicacionesEstadisticas/Informe_de_estabilidad_financiera.asp)
+    * [Informe sobre bancos](http://bcra.gov.ar/PublicacionesEstadisticas/Informe_mensual_sobre_bancos.asp)
+
+* Sector externo
+    * [Informe de Mercado de Cambios, Deuda y Formación de Activos Externos 2015 - 2019](http://bcra.gov.ar/PublicacionesEstadisticas/Informe-mercado-cambios-deuda-formacion-activos-externos-2015-2019.asp)
+    * [Informe de la Evolución del Mercado de Cambios y Balance Cambiario](http://bcra.gov.ar/PublicacionesEstadisticas/Mercado_de_cambios.asp)
+    * [Informe sobre Deuda Externa del Sector Privado](http://bcra.gov.ar/PublicacionesEstadisticas/Deuda_externa_privada.asp)
+    * [Informe de Inversiones Directas en Empresas Residentes](http://bcra.gov.ar/PublicacionesEstadisticas/Inversiones_directas.asp)
+
+* Sistema financiero
+    * [Información sobre entidades financieras](http://bcra.gov.ar/PublicacionesEstadisticas/Entidades_financieras.asp)
+    * [Información sobre Entidades No Financieras](http://bcra.gov.ar/PublicacionesEstadisticas/Entidades_no_financieras.asp)
+    * [Marco Legal del Sistema Financiero](http://bcra.gov.ar/PublicacionesEstadisticas/Marco_Legal.asp)
+    * [Productos Derivados Financieros](http://bcra.gov.ar/PublicacionesEstadisticas/Productos_Derivados_Financieros.asp)
+
+* Inclusión financiera
+    * [Informe de Inclusión Financiera (IIF)](http://bcra.gov.ar/PublicacionesEstadisticas/Informe-Inclusion-Financiera.asp)
+    * [Informe sobre Otros Proveedores no Financieros de Crédito](http://bcra.gov.ar/PublicacionesEstadisticas/Informe-otros-proveedores-no-financieros-credito.asp)
+
+* Balances
+    * [Semanal](http://bcra.gov.ar/PublicacionesEstadisticas/balances_semanales.asp)
+    * [Anuales](http://bcra.gov.ar/PublicacionesEstadisticas/balances_anuales.asp)
