@@ -4,11 +4,11 @@ title = "Fuentes oficiales"
 
 ---
 # CONTENIDOS
-1. [INDEC: Economía](#1.-INDEC:-Economía)
-2. [INDEC: Sociedad](#2.-INDEC:-Sociedad)
-3. [INDEC: Población](#3.-INDEC:-Población)
-4. [Banco Central de la República Argentina (BCRA)](4.-#Banco-Central-de-la-República-Argentina-(BCRA))
-5. [Ministerio de Economía](#5.-Ministerio-de-Economía)
+1. INDEC: Economía
+2. INDEC: Sociedad
+3. INDEC: Población
+4. Banco Central de la República Argentina (BCRA)
+5. Ministerio de Economía
 
 ---
 # INDEC
