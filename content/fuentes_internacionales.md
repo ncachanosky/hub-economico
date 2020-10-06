@@ -4,31 +4,13 @@ title = "Fuentes internacionales"
 +++
 
 # CONTENIDOS
-1. Fundación de Investigaciones Económicas Latinoamericanas (FIEL)
-    * Indice de Producción Industrial (IPI)
-2. Orlando J. Ferreres y Asociados
-    * Indice General de Actividad (IGA)
-    * Indice de Producción Industrial (IPI)
-3. Universidad Católica Argentina (UCA)
-    * Subsistencia material
-    * Hábitat Urbano
-    * Trabajo y Seguridad Social
-    * Salud y Condiciones Psicosociales
-    * Confianza Institucional y Vida Ciudadana
-4. Universidad del CEMA (UCEMA)
-    * Canasta del profesional ejecutivo
-    * Indice de Viento de Cola
-    * Varialbes de coyuntura económica
-    * Base de datos de series históricas
-5. Universidad Torcuato di Tella (UTDT)
-    * Indice de flexibilidad de créditos
-    * Relevamiento inmobiliario de América Latina
-    * Indice de Confianza del Consumidor (ICC)
-    * Encuesta de expectativas de inflación
-    * Indice lider
-6. Inflación Verdadera
-    * Inflación Argentina
-    * Inflación Venezuela
+1. Center for Systemic Peace
+2. Comisión Económica para América Latina y el Caribe (CEPAL)
+3. Groningen Growth and Development Center
+4. The Conference Board
+5. The Fraser Institute
+6. The World Bank
+7. United Nations
 
 
 ---
@@ -41,7 +23,7 @@ title = "Fuentes internacionales"
 
 
 ---
-# [Comisión Económica para America Latina y el Caribe (CEPAL)](https://www.cepal.org/es)
+# [Comisión Económica para América Latina y el Caribe (CEPAL)](https://www.cepal.org/es)
 * [CEPALSTAT | Base de Datos y Publicaciones Estadísticas](https://estadisticas.cepal.org/cepalstat/Portada.html)
 * [Recuperación de datos para áreas pequeñas por microcomputador (REDATAM)](https://www.cepal.org/es/temas/redatam/acerca-redatam)
 * [Desarrollo productivo y empresarial](https://www.cepal.org/es/areas-de-trabajo/desarrollo-productivo-y-empresarial)
