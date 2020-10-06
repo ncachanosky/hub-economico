@@ -253,3 +253,73 @@ title = "Fuentes oficiales"
 * Balances
     * [Semanal](http://bcra.gov.ar/PublicacionesEstadisticas/balances_semanales.asp)
     * [Anuales](http://bcra.gov.ar/PublicacionesEstadisticas/balances_anuales.asp)
+
+
+## 2. Estadísticas
+* [Principales variables](http://bcra.gov.ar/PublicacionesEstadisticas/Principales_variables.asp)
+* Monetarias y financieras
+    * [Consultas personalizadas de series estadísticas](http://bcra.gov.ar/PublicacionesEstadisticas/Consultas_Personalizadas_Series_Estadisticas.asp)
+    * [Cuadros estandarizados de series estadísticas](http://bcra.gov.ar/PublicacionesEstadisticas/Cuadros_estandarizados_series_estadisticas.asp)
+    * [Boletín estadístico](http://bcra.gov.ar/PublicacionesEstadisticas/Boletin_estadistico.asp)
+    * [Metodologías](http://bcra.gov.ar/PublicacionesEstadisticas/Metodologias.asp)
+
+* Sector externo
+    * [Evolución del mercado de cambios](http://bcra.gov.ar/PublicacionesEstadisticas/Estad%C3%ADsticas_Mercado_de_cambios.asp)
+    * [Deuda externa del sector privado](http://bcra.gov.ar/PublicacionesEstadisticas/Estadisticas_deuda_externa_privada.asp)
+    * [Inversiones directas en empresas residentes](http://bcra.gov.ar/PublicacionesEstadisticas/Estadisticas_inversiones_directas.asp)
+    * [Tasas libor](http://bcra.gov.ar/PublicacionesEstadisticas/Libor.asp)
+    * [Precios de materias primas](http://bcra.gov.ar/PublicacionesEstadisticas/Precios_materias_primas.asp)
+
+* Cambiarias
+    * [Tipo de cambio](http://bcra.gov.ar/PublicacionesEstadisticas/Tipos_de_cambios.asp)
+    * [Indices de tipo de cambio multilateral](http://bcra.gov.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
+
+* [Relevamiento de Expectativas de Mercado (REM)](http://bcra.gov.ar/PublicacionesEstadisticas/Relevamiento_Expectativas_de_Mercado.asp)
+* [Encuesta de Condiciones Crediticias (ECC)](http://bcra.gov.ar/PublicacionesEstadisticas/Encuesta_de_condiciones_crediticias.asp)
+* [Operaciones de pases y subastas de letras](http://bcra.gov.ar/PublicacionesEstadisticas/Operaciones-y-subastas.asp)
+
+
+# Ministerio de Economía
+
+## 1. [Portal de Datos Económicos](https://www.economia.gob.ar/datos/)
+* [Nivel de actividad](https://www.economia.gob.ar/download/infoeco/actividad_ied.xlsx)
+* [Empleo e ingresos](https://www.economia.gob.ar/download/infoeco/apendice3a.xlsx)
+* [Sector externo](https://www.economia.gob.ar/download/infoeco/apendice5.xlsx)
+* [Economía internacional](https://www.economia.gob.ar/download/infoeco/internacional_ied.xlsx)
+* [Dinero y bancos](https://www.economia.gob.ar/download/infoeco/apendice8.xlsx)
+* [Precios](https://www.economia.gob.ar/download/infoeco/apendice4.xlsx)
+* [Finanzas](https://www.economia.gob.ar/download/infoeco/apendice-financiero.xlsx)
+* [Finanzas públicas](https://www.economia.gob.ar/download/infoeco/apendice6.xlsx)
+* [Cadenas productivas](https://www.minhacienda.gob.ar/catalogo-sspmi/nuevo_dataset/valores.csv)
+* [Provincias](https://www.minhacienda.gob.ar/catalogo-sspmi/nuevo_dataset/indicadores-provinciales.csv)
+
+
+## 2. [Secretaría de Hacienda](https://www.argentina.gob.ar/economia/sechacienda)
+* [Calendario de publicaciones fiscales](https://www.argentina.gob.ar/economia/sechacienda/calendario2020)
+* [Cuentas de inversión](https://www.argentina.gob.ar/economia/sechacienda/cgn/cuentainversion)
+* [Información estadística](https://www.argentina.gob.ar/economia/sechacienda/infoestadistica)
+    * Sector público base caja e informe mensual de ingresos y gastos
+    * Informe mensual de ingresos y gastos (IMIG)
+    * Recaudación
+
+
+## 3. [Secretaría de política económica](https://www.argentina.gob.ar/economia/politicaeconomica)
+* [Grupo de Monitoreo Macroeconómico (MGG)](http://www.gmm-mercosur.org/)
+* [Informe gasto público consolidado (1980-2015)](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
+* [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas)
+
+## 4. Secretaría de finanzas
+* [Presentación gráfica de la deuda](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+    * Estrategia financiera
+    * Presentaciones
+    * Informes mensuales de la deuda
+    * Informes trimestrales de la deuda
+    * Colocación de deuda
+    * Información remitida a la SEC y calificaciones de deuda
+    * Cupones, precios técnicos y coeficientes PG
+    * Estructura financiera de títulos públicos
+    * Valores negociables vinculados al PBI
+    * Resolución bonos en cesación de pago
+    * Recompora de deuda
+    * Consolidación de deuda
+    * Carta de intención, memorandum de políticas económicas y financieras y memorandum de entendimiento técnico entre Argentina y el FMI
