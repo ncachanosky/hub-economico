@@ -3,4 +3,4 @@ title = "Gráficos"
 
 +++
 
-Hello world! I'm *gráficos*
+{{< figure src="image/graficos/Fig01_Deficit_Consolidado.png" >}}
