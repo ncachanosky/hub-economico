@@ -35,18 +35,18 @@ title = "Gráficos"
 [comment]: <FIGURE 5: Deuda de la Administración Central>
 {{< figure src="image/graficos/Fig_05_Deuda_Administracion_Central.png" >}}
 
-{{< button text="Download Figure" type="alert" icon="download" href="image/graficos/Fig_05_Deuda_Administracion_Central.png" >}}
+{{< button text="Download Figure" type="info" icon="download" href="image/graficos/Fig_05_Deuda_Administracion_Central.png" >}}
 
 
 ## Gráfico 6
 [comment]: <FIGURE 6: Intereses como % de Ingresos Tributarios>
 {{< figure src="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
 
-{{< button text="Download Figure" type="default" icon="download" href="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
+{{< button text="Download Figure" type="info" icon="download" href="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
 
 
 ## Gráfico 7
 [comment]: <FIGURE 7: Intereses como % de Ingresos Tributarios>
 {{< figure src="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
 
-{{< button text="Download Figure" type="warn" icon="download" href="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
+{{< button text="Download Figure" type="info" icon="download" href="image/graficos/Fig_06_Intereses_Sobre_Ingresos.png" >}}
