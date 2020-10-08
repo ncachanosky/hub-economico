@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 theme = "axiom"
 
 paginate = 2
-canonifyURLs = true
+canonifyURLs = false
 summaryLength = 40
 rssLimit = 100
 enableEmoji = true
