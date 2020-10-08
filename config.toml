@@ -142,7 +142,7 @@ weight = 3
 
 [[menu.main]]
 url = "/graficos/"
-name = "GRAFICOS"
+name = "GRÁFICOS"
 weight = 4
 
 
