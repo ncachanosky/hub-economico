@@ -1,4 +1,4 @@
-baseURL = "https://axiom-example.netlify.app"
+baseURL = "https://elhubeconomico.com"
 
 title = "El Hub Economico"
 languageCode = "en-us"
@@ -40,7 +40,7 @@ facebook = "https://www.facebook.com/ncachanosky"
 footer = ["github", "linkedin", "twitter", "facebook"]
 
 [params.services]
-googleAnalyticsId = "UA-160259978-2"
+googleAnalyticsId = "UA-88183200-1"
 googleTagManagerId = ""
 googleAdsId = ""
 googleAdsenseId = ""
